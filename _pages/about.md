@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .page__content p {
+    font-size: 0.9em;
+  }
+</style>
 Hi, welcome to my website.
 
 I am a PhD candidate in [Department of Linguistics at Stony Brook University](https://linguistics.stonybrook.edu/), where I work on syntax and morphology. I joined the program in 2021 and am advised by [Paco Ordóñez](https://linguistics.stonybrook.edu/people/faculty).
