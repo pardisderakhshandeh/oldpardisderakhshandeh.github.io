@@ -23,7 +23,7 @@ repository               : "pardisderakhshandeh/pardisderakhshandeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/PardisD.jpeg"
   name             : "Pardis Derakhshandeh"
   pronouns         : "she/her"  
   bio              : 
