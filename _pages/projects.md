@@ -16,6 +16,7 @@ To complement my theoretical syntactic analysis, I am developing computational m
 
 Beyond formal analysis, I am invested in the documentation and visibility of the Behbahani variety. 
 
-* Co-led a collaborative research initiative alongside [Daniel Greeson](https://www.danielgreeson.com/home) to process and prepare primary linguistic data, culminating in a dedicated session at the Annual Meeting of the Linguistic Society of America (LSA).
-* Mentored and trained a team of ten undergraduate researchers, guiding them through data analysis and the refinement of theoretical research questions.
+* Co-directed a collaborative documentation initiative alongside [Daniel Greeson](https://www.danielgreeson.com/home), utilizing primary data elicited during my tenure as the Linguistic Consultant and Teaching Assistant for the LIN 431 fieldwork course.
+* Handpicked and mentored a team of ten undergraduate researchers from May through January, guiding the transformation of raw fieldwork data into fully developed theoretical research projects.
+* Culminated in a dedicated session at the [2025] Annual Meeting of the Linguistic Society of America (LSA). [[View LSA Session Booklet](https://www.lsadc.org/files/2025LSAProgram_Current%20as%20of%201_8_25%20(2).pdf)]
 * Supervised by [Dr. Robert Hoberman](https://linguistics.stonybrook.edu/faculty/robert.hoberman/index.php).
