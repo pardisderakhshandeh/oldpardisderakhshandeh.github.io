@@ -1,5 +1,6 @@
 ---
 ---
+@import "minimal-mistakes";
 
 /*
  * This file controls what is imported from /_sass
@@ -44,31 +45,26 @@
 /* --- CUSTOM AESTHETIC OVERRIDES --- */
 
 /* 1. Paper-like Background and Charcoal Text */
-body {
+body, .page__content {
     background-color: #FDFBF7 !important; 
     color: #2A2A2A !important; 
-    line-height: 1.7 !important; 
 }
 
-/* 2. Deep Crimson Links (High contrast, elegant) */
-a {
-    color: #8B1C1C !important; /* A deep, rich crimson */
+/* 2. Deep Crimson Links (Hyper-specific to force the theme to obey) */
+a, .page__content a, .author__urls-wrapper a {
+    color: #8B1C1C !important; 
     text-decoration: none !important;
     border-bottom: 1px solid rgba(139, 28, 28, 0.3) !important;
 }
 
-a:hover {
-    color: #5A1212 !important; /* Darker shade on hover */
+a:hover, .page__content a:hover, .author__urls-wrapper a:hover {
+    color: #5A1212 !important; 
     border-bottom: 1px solid #5A1212 !important;
 }
 
-/* 3. Sidebar Profile Tweaks (Square Photo & Text) */
+/* 3. Square Profile Photo (Forces the override on both the image and container) */
 .author__avatar img {
-    border-radius: 4px !important; /* Changes the oval to a square with slightly softened edges */
-}
-
-.author__name {
-    color: #1A1A1A !important;
-    font-weight: 700 !important;
+    border-radius: 6px !important; 
+    -webkit-border-radius: 6px !important;
 }
 }
