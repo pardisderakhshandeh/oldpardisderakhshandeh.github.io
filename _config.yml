@@ -23,9 +23,9 @@ repository               : "pardisderakhshandeh/pardisderakhshandeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
-  name             : 
-  pronouns         :   
+  avatar           : ""
+  name             : ""
+  pronouns         : ""  
   bio              : 
   location         : 
   employer         : "Stony Brook University"
