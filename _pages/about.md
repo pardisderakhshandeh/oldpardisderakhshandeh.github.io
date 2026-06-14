@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, welcome to my website.
 
-I am Pardis, a PhD candidate in the Department of Linguistics at Stony Brook University, where I work on syntax and morphology. I joined the program in 2021 and am advised by Paco Ordóñez.
+I am a PhD candidate in the Department of Linguistics at Stony Brook University, where I work on syntax and morphology. I joined the program in 2021 and am advised by Paco Ordóñez.
 
 My main research is on complex alignment and agreement systems, with a focus on Behbahani, a Southwestern Iranian language spoken in Behbahan, Iran. In my dissertation, I investigate how argument structure, verbal stems, agreement, and alignment interact in Behbahani grammar. I am especially interested in what this language can tell us about split alignment, the syntax of Voice and related functional projections, stem alternations, and nominalization.
 
