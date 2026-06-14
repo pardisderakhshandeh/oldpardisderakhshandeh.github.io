@@ -23,5 +23,5 @@ Beyond formal analysis, I am invested in the documentation and visibility of the
 
 * Co-directed a collaborative documentation initiative alongside [Daniel Greeson](https://www.danielgreeson.com/home), utilizing primary data elicited while serving as the Linguistic Consultant and Teaching Assistant for the LIN 431 fieldwork course.
 * Handpicked and mentored a team of ten undergraduate researchers from May 2024  through January 2025, guiding the transformation of raw fieldwork data into fully developed theoretical research projects.
-* Culminated in a dedicated session at the [2025] Annual Meeting of the Linguistic Society of America (LSA). [[View LSA Session Booklet](https://www.lsadc.org/files/2025LSAProgram_Current%20as%20of%201_8_25%20(2).pdf)]
+* Culminated in a dedicated session at the 2025 Annual Meeting of the Linguistic Society of America (LSA). [[View LSA Session Booklet](https://www.lsadc.org/files/2025LSAProgram_Current%20as%20of%201_8_25%20(2).pdf)]
 * Supervised by [Dr. Robert Hoberman](https://linguistics.stonybrook.edu/faculty/robert.hoberman/index.php).
